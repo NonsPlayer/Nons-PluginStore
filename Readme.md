@@ -22,7 +22,6 @@
     "name": "ExamplePlugin", // 插件名
     "repo": "Miaoyww/example-plugin", // 插件的 Repo
     "branch": "main", // 分支名
-    "subpath": "/", // 插件在 repo 中的子目录 （可选）
     "author": "Author" // 作者
 }
 ```
